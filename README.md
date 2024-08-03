@@ -26,3 +26,5 @@ My professional journey is driven by a passion for data engineering and software
 I look forward to connecting with you here on LinkedIn. Feel free to reach out to me at srajanshukla50899@gmail.com. 
 <br>Let’s explore opportunities for collaboration and growth!
 
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
