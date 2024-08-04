@@ -19,10 +19,6 @@ With over 3 years of experience in software engineering and data analysis, I am 
 
 My professional journey is driven by a passion for data engineering and software development. I thrive on solving complex problems and creating robust, scalable solutions that meet client needs. Coming from a family of defense personnel, I have ingrained values of discipline, adaptability, and resilience.
 
-<b>Personal Interests:</b>
-<br>=> Hobbies: Listening to music, playing cricket and volleyball.
-<br>=> Passions: Lifelong learner, always eager to take on new challenges and discover my potential.
-
 I look forward to connecting with you here on <a href="https://www.linkedin.com/in/srajan-shukla/">LinkedIn</a>. Feel free to reach out to me at srajanshukla50899@gmail.com. 
 <br>Let’s explore opportunities for collaboration and growth!
 
