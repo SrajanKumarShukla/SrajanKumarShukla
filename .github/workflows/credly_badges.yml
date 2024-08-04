@@ -3,14 +3,16 @@ name: Update badges
 on:
   schedule:
     # Runs at 2am UTC
-    - cron: "20 6 * * *"
+    - cron: "0 * * * *"
+  workflow_dispatch:
+  
 jobs:
   update-readme:
     name: Update Readme with badges
     runs-on: ubuntu-latest
     steps:
       - name: Badges - Readme
-        uses: SrajanKumarShukla/badge-readme@main
+        uses: pemtajo/badge-readme@main
         with:       
           CREDLY_USER: Srajan Shukla
  # optional, but default will use the same from github
