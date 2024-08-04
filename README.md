@@ -31,4 +31,10 @@ I look forward to connecting with you here on LinkedIn. Feel free to reach out t
 
 
 <!--START_SECTION:badges-->
+[![AWS Partner: Generative AI Essentials](https://images.credly.com/size/110x110/images/145a5de8-7390-4d57-b4cb-a10e2f9394e2/image.png)](http://www.credly.com/badges/b0ffdf4f-127c-45c9-8d0a-6d3afe628db9 "AWS Partner: Generative AI Essentials")
+[![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](http://www.credly.com/badges/5b9f6717-c9a4-48c3-b937-2529382808ea "AWS Certified Solutions Architect – Associate")
+[![Migration Ambassador Foundations (Business) 2022](https://images.credly.com/size/110x110/images/c2a04bd2-62d5-4b12-9188-5280fa77e5d6/image.png)](http://www.credly.com/badges/0c8ea99b-e72b-4a00-ae79-dd7eaf8ceb17 "Migration Ambassador Foundations (Business) 2022")
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/24f8e2de-2505-467b-bfc3-d3632fffb04c "AWS Certified Cloud Practitioner")
+[![Lightbend Scala Language Professional - Level 2](https://images.credly.com/size/110x110/images/848cb2dd-975a-4681-9494-66aaea1def3a/LSL-P-badge-verified.png)](http://www.credly.com/badges/2beaae47-b2f5-4988-b802-9e0e6bc1d177 "Lightbend Scala Language Professional - Level 2")
+[![Data Science Foundations - Level 1](https://images.credly.com/size/110x110/images/5ca7b236-6105-4154-ba22-c8ae12ec1d8c/Data_Sci_Found_Level_1_-_CC_-_2019.png)](http://www.credly.com/badges/b50d8843-7fd7-45f2-987b-be78fe433c5e "Data Science Foundations - Level 1")
 <!--END_SECTION:badges-->
