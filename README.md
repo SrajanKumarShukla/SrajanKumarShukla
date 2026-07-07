@@ -1,7 +1,7 @@
 <p align="center">️ **Hello!<img src="https://raw.githubusercontent.com/KarthikNayak024/KarthikNayak024/master/assets/wave.gif" alt="waving hand" width="30px"> I'm Srajan Kumar Shukla 🎯️🚀️</p>
 <p align="center">️ Thank you for visiting here, nice to e-meet you. </p>
 
-With over 4 years of experience in software engineering , I am currently working as Consultant at Xebia India. My journey in technology began with a B.Tech in Computer Science and Engineering from Lovely Professional University, specializing in Data Science. Throughout my career, I have honed my skills in designing and implementing APIs using Scala and Akka, deploying scalable applications on AWS, and enhancing backend systems and database performance.
+With over 5 years of experience in software engineering , I am currently working as Scala Data Engineer at Accenture India. My journey in technology began with a B.Tech in Computer Science and Engineering from Lovely Professional University, specializing in Data Science. Throughout my career, I have honed my skills in designing and implementing APIs using Scala and Akka, deploying scalable applications on AWS, and enhancing backend systems and database performance.
 
 <b>Professional Skills:</b>
 <br>=> Programming Languages: Scala, Java, Python, R
